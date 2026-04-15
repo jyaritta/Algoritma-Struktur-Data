@@ -1,7 +1,5 @@
 #include <iostream>
 #include <string>
-
-// INI KUNCINYA! Panggil .h nya, bukan .cpp nya
 #include "line.h"  
 #include "point.h" 
 
