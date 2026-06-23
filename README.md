@@ -1,4 +1,4 @@
-**Nama:** Rahma Syarita Jaya
-**NIM:** 2510817320004
-**Program Studi:** Teknologi Informasi
-**Universitas:** Universitas Lambung Mangkurat
+**Nama:** Rahma Syarita Jaya <br>
+**NIM:** 2510817320004 <br>
+**Program Studi:** Teknologi Informasi <br>
+**Universitas:** Universitas Lambung Mangkurat <br>
