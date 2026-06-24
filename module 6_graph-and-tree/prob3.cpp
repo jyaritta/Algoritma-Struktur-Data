@@ -6,7 +6,7 @@ struct State {
     int r, c, dist;
 };
 
-State q[10005];
+State q[10001];
 int head = 0; 
 int tail = 0;
 
